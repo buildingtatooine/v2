@@ -141,7 +141,7 @@
       "position": {
           /**/
         "x": 2.201,
-        "y": 0.055,
+        "y": -0.055,
         "z": 2.137
       },
       "rotation": {
@@ -166,7 +166,7 @@
       "position": {
            /**/
         "x": 1.126,
-        "y": -0.053,
+        "y": -1.053,
         "z": -7.9
       },
       "rotation": {
@@ -186,6 +186,31 @@
       },
       "admin_locked": true,
       "initial_url": "https://buildingtatooine.github.io/v2/home/ties01.html"
+    },
+    {
+      "position": {
+           /**/
+        "x": -2.914,
+        "y": 0,
+        "z": -1.142
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 100,
+        "y": 100,
+        "z": 100
+      },
+      "dimensions": {
+        "x": 1280,
+        "y": 720,
+        "z": 1280
+      },
+      "admin_locked": true,
+      "initial_url": "https://buildingtatooine.github.io/v2/home/2910.html"
     }
   ],
   "admin_lock_all": true
