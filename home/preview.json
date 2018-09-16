@@ -217,7 +217,7 @@
       "position": {
            /**/
         "x": -2.494,
-        "y": 0,
+        "y": -1.5,
         "z": 0
       },
       "rotation": {
@@ -237,6 +237,31 @@
       },
       "admin_locked": true,
       "initial_url": "https://buildingtatooine.github.io/v2/home/ground.html"
+    } ,
+    {
+      "position": {
+           /**/
+        "x": -7.274,
+        "y": -1,
+        "z": -7.764
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 100,
+        "y": 100,
+        "z": 100
+      },
+      "dimensions": {
+        "x": 1280,
+        "y": 720,
+        "z": 1280
+      },
+      "admin_locked": true,
+      "initial_url": "https://buildingtatooine.github.io/v2/home/driveway.html"
     }
   ],
   "admin_lock_all": true
