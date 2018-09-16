@@ -20,7 +20,7 @@
     {
       "position": {
         "x": 0,
-        "y": 0,
+        "y": -1,
         "z": 0
       },
       "rotation": {
@@ -44,7 +44,7 @@
     {
       "position": {
         "x": -6.939,
-        "y": 1,
+        "y": -1,
         "z": -7.778
       },
       "rotation": {
@@ -68,7 +68,7 @@
     {
       "position": {
         "x": -6.754,
-        "y": 1.361,
+        "y": 0,
         "z": 6.164
       },
       "rotation": {
@@ -88,6 +88,104 @@
       },
       "admin_locked": true,
       "initial_url": "https://buildingtatooine.github.io/v2/home/2903.html"
+    },
+    {
+      "position": {
+        "x": -9.271,
+        "y": 0,
+        "z": -2.918
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 100,
+        "y": 100,
+        "z": 100
+      },
+      "dimensions": {
+        "x": 1280,
+        "y": 720,
+        "z": 1280
+      },
+      "admin_locked": true,
+      "initial_url": "https://buildingtatooine.github.io/v2/home/north_fence.html"
+    },
+    {
+      "position": {
+        "x": 3.43,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 100,
+        "y": 100,
+        "z": 100
+      },
+      "dimensions": {
+        "x": 1280,
+        "y": 720,
+        "z": 1280
+      },
+      "admin_locked": true,
+      "initial_url": "https://buildingtatooine.github.io/v2/home/south_fence.html"
+    },
+    {
+      "position": {
+          /**/
+        "x": 2.201,
+        "y": 0.055,
+        "z": 2.137
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 100,
+        "y": 100,
+        "z": 100
+      },
+      "dimensions": {
+        "x": 1280,
+        "y": 720,
+        "z": 1280
+      },
+      "admin_locked": true,
+      "initial_url": "https://buildingtatooine.github.io/v2/home/ties.html"
+    },
+    {
+      "position": {
+           /**/
+        "x": 1.126,
+        "y": -0.053,
+        "z": -7.9
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 100,
+        "y": 100,
+        "z": 100
+      },
+      "dimensions": {
+        "x": 1280,
+        "y": 720,
+        "z": 1280
+      },
+      "admin_locked": true,
+      "initial_url": "https://buildingtatooine.github.io/v2/home/ties01.html"
     }
   ],
   "admin_lock_all": true
